@@ -1,0 +1,18 @@
+---
+object: set
+id: 9bd20131-fe8c-4a5d-9841-7347024ca54a
+code: pmor
+name: Morningtide Promos
+uri: https://api.scryfall.com/sets/9bd20131-fe8c-4a5d-9841-7347024ca54a
+scryfall_uri: https://scryfall.com/sets/pmor
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmor&unique=prints
+released_at: '2008-02-01'
+set_type: promo
+card_count: 2
+parent_set_code: mor
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: lrw
+block: Lorwyn
+icon_svg_uri: https://svgs.scryfall.io/sets/mor.svg?1694404800
